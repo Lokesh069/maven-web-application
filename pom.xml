@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sea Gulls Releases Nexus Repository</name>
-	      <url>http://13.233.10.59:8081/repository/rafale_release/</url>
+	      <url>http://13.126.11.159:8081/repository/roserelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Sea Gulls Snapshot Nexus Repository</name>
-	      <url>http://13.233.10.59:8081/repository/rafale_snapshot/</url>
+	      <url>http://13.126.11.159:8081/repository/rosesnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
